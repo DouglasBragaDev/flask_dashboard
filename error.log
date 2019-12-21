@@ -1,0 +1,73 @@
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:36] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:36] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/css/nucleo-icons.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/css/black-dashboard.css?v=1.0.0 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/js/core/popper.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/js/core/jquery.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/js/core/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/js/plugins/perfect-scrollbar.jquery.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/demo/demo.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/js/plugins/chartjs.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/js/plugins/bootstrap-notify.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/demo/demo.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:38] "[37mGET /static/assets/js/black-dashboard.min.js?v=1.0.0 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:39:44] "[37mGET /static/assets/img/favicon.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:04] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:21] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:21] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:25] "[37mGET /create_user HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:50] "[37mPOST /create_user HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:50] "[37mGET /static/assets/img/anime3.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:51] "[37mGET /static/assets/fonts/nucleo.woff2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:56] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:40:56] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:41:04] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:41:16] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:41:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:41:26] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:41:26] "[32mGET /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:41:26] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:42:52] "[37mGET /ui-icons HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:42:55] "[37mGET /ui-maps HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:43:01] "[37mGET /ui-notifications HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:43:04] "[37mGET /page-user HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:43:05] "[37mGET /static/assets/img/emilyz.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:43:23] "[37mGET /ui-tables HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:43:32] "[37mGET /ui-typography HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:43:39] "[37mGET /page-rtl-support HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:44:12] "[37mGET /page-rtl-support HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:44:35] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:44:35] "[32mGET /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 18:44:35] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 20:54:34] "[37mGET /ui-maps HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 20:55:26] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 20:55:26] "[32mGET /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 20:55:26] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 857-042-057
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:48] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:48] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/js/core/jquery.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/css/nucleo-icons.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/css/black-dashboard.css?v=1.0.0 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/demo/demo.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/js/core/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/js/core/popper.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/js/plugins/perfect-scrollbar.jquery.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/js/plugins/bootstrap-notify.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/js/black-dashboard.min.js?v=1.0.0 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/demo/demo.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:49] "[37mGET /static/assets/js/plugins/chartjs.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:51] "[37mGET /static/assets/img/favicon.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:55] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:55] "[32mGET /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:55] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:55] "[37mGET /static/assets/img/anime3.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 09:30:56] "[37mGET /static/assets/fonts/nucleo.woff2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2019 13:55:14] "[37mGET /index HTTP/1.1[0m" 200 -
